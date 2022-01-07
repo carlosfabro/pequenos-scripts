@@ -14,4 +14,6 @@ if valor_unidadea < valor_unidadeb:
     print("O produto A esta realmente com um valor melhor")
 if valor_unidadea > valor_unidadeb:
     print("O produto B esta realmente com um valor melhor")
+    if valor_unidadea == valor_unidadeb:
+    print("ambos estão com um valor similar")
     
